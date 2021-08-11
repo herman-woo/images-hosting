@@ -1,0 +1,19 @@
+{
+  "name": "images-hosting",
+  "version": "1.0.0",
+  "description": "a repository to hold images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herman-woo/images-hosting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herman-woo/images-hosting/issues"
+  },
+  "homepage": "https://github.com/herman-woo/images-hosting#readme"
+}
